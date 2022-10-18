@@ -14,7 +14,7 @@ author: IPCV
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  Demos: "demos"
+  Demos: "demos"
   About us:
     - Juan F. Montesinos: "https://juanmontesinos.com"
     - Daniel Michelsanti: "https://danmic.github.io/"
